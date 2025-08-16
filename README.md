@@ -13,7 +13,7 @@ I love learning new technologies and applying them to real-world projects.
 - 💡 Exploring **System Design & Cloud Technologies**  
 - 🎯 Goal: Build efficient, user-friendly apps that solve real problems  
 - 👨‍💻 **Experience:**  
-  - 2+ Years of **Software Development** experience  
+  - 1+ Years of **Software Development** experience  
   - Hands-on with **Web Development, APIs, Databases, and Deployment**  
   - Built multiple **projects** from scratch (planning → design → coding → deployment)  
 
@@ -47,12 +47,6 @@ I love learning new technologies and applying them to real-world projects.
 
 
 
-## 📊 GitHub Stats  
-
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuSamanta&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSamanta&layout=compact&theme=radical)  
-
----
 
 ## 🌐 Connect with Me  
 
