@@ -33,38 +33,19 @@ I love learning new technologies and applying them to real-world projects.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>  
-
----
-
-### 🌐 E-commerce & CMS  
-
-<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/WooCommerce_logo.svg" alt="woocommerce" width="60" height="40"/>
   <img src="https://seeklogo.com/images/E/elementor-logo-B8A0C0A161-seeklogo.com.png" alt="elementor" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/wix.svg" alt="wix" width="60" height="40"/>
-</p>  
-
----
-
-### 🤖 Machine Learning & AI  
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="machine-learning" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="deep-learning" width="40" height="40"/>
-</p>  
-
----
-
-### 🐍 Programming  
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>  
 
----
+
+
+
 
 ## 📊 GitHub Stats  
 
