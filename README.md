@@ -70,7 +70,7 @@ I love learning new technologies and applying them to real-world projects.
 
 <p >
   <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/in/priyanshu-samanta-5542b923a](https://www.linkedin.com/in/priyanshu-samanta-5542b923a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-samanta-5542b923a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
