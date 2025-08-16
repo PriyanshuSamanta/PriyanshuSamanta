@@ -1,23 +1,19 @@
 # 👋 Hi, I'm Priyanshu Samanta  
 
-### 💻 Software Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver  
+###  Software Developer |  Tech Enthusiast | Problem Solver  
 
 I’m passionate about building **web applications, APIs, and scalable systems**.  
 I love learning new technologies and applying them to real-world projects.  
 
----
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Full Stack Development**  
-- 🌱 Learning **React, PHP, Node.js, and MySQL**  
-- 💡 Exploring **System Design & Cloud Technologies**  
-- 🎯 Goal: Build efficient, user-friendly apps that solve real problems  
+I have practical experience in full stack web development, where I’ve worked on building and deploying project and task management systems, developing REST APIs, and integrating third-party services to streamline workflows. My experience includes React.js for creating dynamic, user-friendly interfaces, and PHP/Node.js with MySQL for backend systems. I’ve also worked on optimizing performance for complex dashboards, implementing workload tracking views, and managing user authentication systems with role-based access. Along the way, I’ve successfully migrated applications from Express.js to PHP for better compatibility with shared hosting environments, ensuring both scalability and deployment efficiency.
 - 👨‍💻 **Experience:**  
   - 1+ Years of **Software Development** experience  
   - Hands-on with **Web Development, APIs, Databases, and Deployment**  
   - Built multiple **projects** from scratch (planning → design → coding → deployment)  
 
----
+
 
 ## 🛠️ Languages and Tools  
 
@@ -81,8 +77,7 @@ I love learning new technologies and applying them to real-world projects.
 </p>
 
 
----
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
+ “Code is like humor. When you have to explain it, it’s bad.”
 
 
